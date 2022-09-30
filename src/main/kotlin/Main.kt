@@ -12,13 +12,14 @@ fun main() {
     println(data(teamList))
     println(data2(emptyList))
     println(data3(teamList))
+
 }
 
 fun data(teamList: ArrayList<String>): List<String> {
-    if (teamList.isEmpty()) {
-        return emptyList()
+    return if (teamList.isEmpty()) {
+        emptyList()
     }else {
-        return teamList
+        teamList
     }
 }
 
