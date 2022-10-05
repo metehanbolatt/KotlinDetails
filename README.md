@@ -1,1 +1,1 @@
-![https://raw.githubusercontent.com/metehanie/KotlinDetails/master/emptycontrol.png]()
+![](https://raw.githubusercontent.com/metehanie/KotlinDetails/master/emptycontrol.png)
